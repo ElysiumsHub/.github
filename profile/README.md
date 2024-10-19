@@ -1,6 +1,6 @@
 # Elysiums
 
-<img src="./hero.png" alt="logo" height="400" width="100%">
+<img src="./hero.png" alt="logo" height="450" width="100%">
 
 We **Elysiums** believe in learning and growing together as a team. Our team does not just deliver app but adds value to your business as well to enhance your customer engagement and shoots up your ROI graph. We believe in the perfect blend of life, fun & work for our team. We motivate our employees with rewards & recognition as they are an integral part of the business. Because we appreciate and recognize the importance of hard work, our team always pushes that extra mile to ensure they produce top notch & creative outcomes for our clients.
 
